@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://ThanushPraveen:k4y71QFiytFDKC7K@cluster0.y075d.mongodb.net/kgisltask?retryWrites=true&w=majority",
+    "jwtSecret" : "mymerntoken"
+}
